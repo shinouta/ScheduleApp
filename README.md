@@ -4,8 +4,8 @@
 登録したurlを自動で起動できるアプリです.
 
 ## インストール方法
-`ScheduleApp/Setup1/Release/`に入っているsetup.exeを起動.
-note: 同ディレクトリのSetup1.msiもダウンロードしてください.
+* `ScheduleApp/Setup1/Release/`に入っているsetup.exeを起動.
+* 同ディレクトリのSetup1.msiもダウンロードしてください.
 
 ## 利用例
 * 時間割通りに講義のurlを登録しておき, クリックで素早くurlへ飛ぶ.
