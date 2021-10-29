@@ -1,0 +1,228 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScheduleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ZoomUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomHours" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="ZoomMinutes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">45</Value>
+    </Setting>
+    <Setting Name="ZoomOnOff" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LectureName1_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName1_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName1_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName1_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName1_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName2_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName2_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName2_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName2_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName2_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName3_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName3_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName3_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName3_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName3_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName4_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName4_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName4_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName4_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName4_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName5_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName5_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName5_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName5_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LectureName5_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL1_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL1_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL1_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL1_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL1_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL2_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL2_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL2_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL2_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL2_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL3_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL3_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL3_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL3_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL3_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL4_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL4_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL4_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL4_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL4_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL5_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL5_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL5_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL5_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZoomURL5_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Time1_0_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">08</Value>
+    </Setting>
+    <Setting Name="Time1_0_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Time1_1_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Time1_1_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Time2_0_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Time2_0_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Time2_1_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="Time2_1_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00</Value>
+    </Setting>
+    <Setting Name="Time3_0_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="Time3_0_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00</Value>
+    </Setting>
+    <Setting Name="Time3_1_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="Time3_1_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Time4_0_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="Time4_0_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="Time4_1_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="Time4_1_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Time5_0_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="Time5_0_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Time5_1_h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">17</Value>
+    </Setting>
+    <Setting Name="Time5_1_m" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

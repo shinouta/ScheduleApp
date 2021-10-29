@@ -1,0 +1,67 @@
+﻿<Window x:Class="ScheduleApp.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScheduleApp"
+        mc:Ignorable="d"
+        Title="時間割設定" Height="300" Width="485">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <Label Content="zoomURL"/>
+
+            <TextBox
+                x:Name="ZoomText2"
+                Margin="0, 0, 0, 10"/>
+
+            <Label Content="講義名"/>
+
+            <TextBox x:Name="LectureText"/>
+
+            <Label Content="曜日"/>
+
+            <ComboBox 
+                x:Name="ZoomDay"
+                Margin="0, 0, 0, 10">
+                <ComboBoxItem Content="月"/>
+                <ComboBoxItem Content="火"/>
+                <ComboBoxItem Content="水"/>
+                <ComboBoxItem Content="木"/>
+                <ComboBoxItem Content="金"/>
+            </ComboBox>
+
+            <Label Content="何限目"/>
+
+            <ComboBox
+                x:Name="ClassText"
+                Margin="0, 0, 0, 10">
+                <ComboBoxItem Content="1"/>
+                <ComboBoxItem Content="2"/>
+                <ComboBoxItem Content="3"/>
+                <ComboBoxItem Content="4"/>
+                <ComboBoxItem Content="5"/>
+            </ComboBox>
+
+        </StackPanel>
+
+        <StackPanel
+            Grid.Row="1"
+            Orientation="Horizontal"
+            HorizontalAlignment="Right">
+
+            <Button x:Name="Button2_ok" Content="OK"
+                    Width="100" Height="20"
+                    Margin="0, 10, 10, 10" Click="Button2_ok_Click"/>
+
+            <Button x:Name="Button2_cancel" Content="キャンセル"
+                    Width="100" Height="20"
+                    Margin="0, 10, 10, 10" Click="Button2_cancel_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
