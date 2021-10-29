@@ -4,7 +4,7 @@
 登録したurlを自動で起動できるアプリです.
 
 ## インストール方法
-* `ScheduleApp/Setup1/Release/`に入っているsetup.exeを起動.
+* `ScheduleApp/Setup1/Release/setup.exe`を起動.
 * 同ディレクトリのSetup1.msiもダウンロードしてください.
 
 ## 利用例
